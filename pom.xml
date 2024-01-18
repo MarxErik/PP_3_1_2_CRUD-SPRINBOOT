@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.marx</groupId>
-	<artifactId>PP_3_1_2_CROD-SPRINBOOT</artifactId>
+	<artifactId>PP_3_1_2_CRUD-SPRINBOOT</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PP_3_1_2_CROD-SPRINBOOT</name>
 	<description>Spring Boot</description>
